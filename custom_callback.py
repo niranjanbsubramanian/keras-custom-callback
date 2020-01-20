@@ -1,5 +1,4 @@
 # https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
-# So many people. I stand on the shoulders of giants. Respect to all developers.
 import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten
