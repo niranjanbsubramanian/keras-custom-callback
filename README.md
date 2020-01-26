@@ -1,6 +1,9 @@
 # Overview
-This is the code [for this blog post.](https://aiaspirant.com/grid-search/)
+This is the code [for this blog post.](https://aiaspirant.com/custom-callbacks-in-keras/)
 
 # Dependencies
-scikit-learn </br>
-numpy
+Keras
+
+# Credits
+Credits to [keras](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py) for starter code.
+
